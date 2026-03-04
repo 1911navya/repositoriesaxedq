@@ -1,0 +1,30 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Axeauditor_Signin,60,5644,5190,6091,6430,12774,4821,12865,0.000%,.03357,6.90,0.00
+Edit TestUnits_T01_Click on test cases link in navigator,20,2479,2259,2947,3896,4048,2090,4048,0.000%,.01166,5.74,0.00
+Delete TestUnits_T01_Click on test cases link in navigator,20,2503,2295,2919,3325,4297,2075,4297,0.000%,.01155,5.68,0.00
+Adding Testunits_T01_click on test cases link in navigator,20,3915,3454,4540,4580,9603,3296,9603,0.000%,.01125,5.53,0.00
+Edit TestUnits_T02_Click on All Testcases,20,2241,1966,2986,3352,3835,1782,3835,0.000%,.01167,5.92,0.00
+Delete TestUnits_T02_Click on All Testcases,20,2094,1979,2451,2642,2971,1844,2971,0.000%,.01156,5.86,0.00
+Adding Testunits_T02_click on All Testcases,20,3770,3462,4327,4471,5984,3290,5984,0.000%,.01129,5.73,0.00
+Delete TestUnits_T03_Click on Test Runs of Available Test cases,20,2254,2248,2295,2316,2329,2202,2329,0.000%,.01154,2.57,0.00
+Edit TestUnits_T03_Click on Test Runs of Available Test cases,20,1325,1270,1454,1529,1693,1213,1693,0.000%,.01169,2.60,0.00
+Adding Testunits_T03_Click on Test Runs of Available Test cases,20,3394,3336,3673,3690,4037,3199,4037,0.000%,.01130,2.51,0.00
+Delete TestUnits_T04_Click on Start/Resume Testcase,20,5435,4991,6671,7074,10896,3497,10896,0.000%,.01152,10.28,0.00
+Edit TestUnits_T04_Click on Start/Resume Testcase,20,5509,4972,6522,6680,12067,3583,12067,0.000%,.01168,10.42,0.00
+Delete TestUnits_T05_Click on Start/Resume Testunit at TRO page,20,3457,3297,3608,3740,4483,3162,4483,0.000%,.01158,2.82,0.00
+Adding Testunits_T04_click on Start/Resume Testcase,20,6194,5268,7788,10716,13172,4805,13172,0.000%,.01129,10.08,0.00
+Edit TestUnits_T05_Click on Start/Resume Testunit at TRO page,20,3272,3245,3408,3453,3568,3157,3568,0.000%,.01175,2.86,0.00
+Delete TestUnits_T06_Click on TestUnit Info,20,3385,3277,3652,3741,4860,3134,4860,0.000%,.01156,2.81,0.00
+Edit TestUnits_T06_Click on TestUnit Info,20,3329,3248,3563,3622,3802,3170,3802,0.000%,.01176,2.86,0.00
+Delete TestUnits_T07_Click on EditTestunit at Testunit Info,20,1082,1074,1107,1109,1138,1044,1138,0.000%,.01157,2.83,0.00
+Edit TestUnits_T07_Click on EditTestunit at Testunit Info,20,572,564,600,612,631,548,631,0.000%,.01175,2.87,0.00
+Delete TestUnits_T08_Click on Delete,20,1560,1550,1615,1620,1649,1503,1649,0.000%,.01158,2.83,0.00
+Adding pages_T05_Click on Add New Test Units at Test Run Overview Page,20,8722,8568,9202,9638,10455,7885,10455,0.000%,.01133,10.12,0.00
+Edit TestUnits_T08_Click on Save Edit,20,6028,5902,6477,7203,7302,4905,7302,0.000%,.01171,2.31,0.00
+Delete TestUnits_T06_Account Actions,20,1656,1356,3232,3821,4241,56,4241,0.000%,.01158,10.34,0.00
+Edit TestUnits_T09_Account Actions,20,1059,1058,1074,1083,1084,1040,1084,0.000%,.01176,2.32,0.00
+Adding Testunits_T06_Account Actions,20,55,52,68,73,99,43,99,0.000%,.01139,10.17,0.00
+Delete TestUnits_Signout,20,1846,1716,2109,2193,3104,1602,3104,0.000%,.01160,0.11,0.00
+Debug Sampler,20,0,0,1,1,1,0,1,0.000%,.01161,0.01,0.00
+Axeauditor_Signout,40,1838,1768,2078,2188,2364,1634,2364,0.000%,.02267,0.22,0.00
+TOTAL,620,3153,3102,5854,7074,10716,0,13172,0.000%,.33225,126.14,0.00

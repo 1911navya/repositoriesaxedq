@@ -1,0 +1,7 @@
+Category,ID
+aria,aria-allowed-attr
+color,color-contrast
+text-alternatives,image-alt
+name-role-value,link-name
+keyboard,scrollable-region-focusable
+parsing,duplicate-id

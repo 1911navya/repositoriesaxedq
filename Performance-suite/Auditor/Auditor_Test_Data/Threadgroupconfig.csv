@@ -1,0 +1,15 @@
+serverurl,Rampup,Testduration,No.ofthreads,TestRunCreationManualTesting_No.ofthreads,TestRunCreationAutomatedTesting_No.ofthreads,CopyIssuesWithin/OutsideTestRun__No.ofthreads,CheckpointsPage_No.ofthreads,AddissuestoNewGroupExistingGroupExporttoCSVUngroup_No.ofthreads,CustomerView_No.ofthreads,MoveTestCasetoNew/ExistingFolder_No.ofthreads,TestRun_Issues_No.ofthreads
+axeauditor-qa-perftest.dequelabs.com,180,360,7,14,12,12,15,10,9,9,12
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,Testcasecreation_No.ofthreads,
